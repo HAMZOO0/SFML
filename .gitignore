@@ -1,0 +1,12 @@
+/.vs
+!.gitignore
+
+/Create Window/*
+/Eventss/*
+/Joystick Events/*
+/keyboard event/*
+/Mouse Events/*
+/Window Events/*
+
+
+!/Create Window/SFML Basic/*SFML Basic.cpp
