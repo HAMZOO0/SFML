@@ -14,7 +14,7 @@ int main()
 
     sf::Sprite img(texture); // create a sprite using the loaded texture
 
-    img.setScale(5, 6);
+    img.setScale(5, 6); // this is use for zoom on x axis and y axis 5 zoon in x-axis and 6 in y-axis
 
     while (window.isOpen())
     {
